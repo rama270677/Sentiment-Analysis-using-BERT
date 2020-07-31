@@ -38,5 +38,7 @@ Loading and Evaluating our Model.
 
 Note: The project is supported in both Mac and
 Windows environments. Project files in Mac 
-start with an "-".
+start with an "-". Unfortunately Python code 
+file for Mac ._Complete.ipynb is not opening 
+in Git.
 
