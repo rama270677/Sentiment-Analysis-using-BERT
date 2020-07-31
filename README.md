@@ -19,7 +19,7 @@ you will build a Sentiment Analysis model that
 leverages BERT's large-scale language knowledge.
 
 SKILLS YOU WILL DEVELOP:
-Natural Language Processing,
+Neuro-Linguistic Programming,
 Deep Learning,
 Machine Learning,
 Sentiment Analysis,
