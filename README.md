@@ -34,4 +34,9 @@ Creating Data Loaders.
 Setting Up Optimizer and Scheduler.
 Defining our Performance Metrics.
 Creating our Training Loop.
-Loading and Evaluating our Model
+Loading and Evaluating our Model.
+
+Note: The project is supported in both Mac and
+Windows environments. Project files in Mac 
+start with an "-".
+
