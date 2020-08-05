@@ -1,4 +1,4 @@
-# Sentiment-Analysis-using-BERT.
+# Sentiment-Analysis-using-BERT
 Sentiment Analysis with Deep Learning using BERT
 
 Preprocess and clean data for BERT Classification.
